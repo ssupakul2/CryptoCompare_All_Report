@@ -44,7 +44,7 @@
     "tp1_5_hit": false,
     "partial_closed": false,
     "remaining_size_pct": 1.0,
-    "high_water_mark": 754.93,
+    "high_water_mark": 755.52,
     "status": "open"
   },
   "FLOKI": {
@@ -61,6 +61,22 @@
     "partial_closed": false,
     "remaining_size_pct": 1.0,
     "high_water_mark": 2.667e-05,
+    "status": "open"
+  },
+  "BTC": {
+    "entry_price": 79258.97,
+    "entry_time": "2026-09-09T06:24:43.187624+00:00",
+    "sl": 76314.83925,
+    "original_sl": 76314.83925,
+    "tp1": 80165.00139285714,
+    "tp2": 81071.03278571428,
+    "tier": "major",
+    "atr_at_entry": 710.6128571428552,
+    "tp1_hit": false,
+    "tp1_5_hit": false,
+    "partial_closed": false,
+    "remaining_size_pct": 1.0,
+    "high_water_mark": 79258.97,
     "status": "open"
   }
 }
